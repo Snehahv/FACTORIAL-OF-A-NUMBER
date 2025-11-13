@@ -1,4 +1,4 @@
-
+# FACTORIAL-OF-A-NUMBER
 # FACTORIAL OF A NUMBER USING 8051 (Keil)
 
 ## AIM
@@ -53,13 +53,13 @@ END
 
 ```
 OUTPUT
-<img width="462" height="287" alt="image" src="https://github.com/user-attachments/assets/6ad91aa6-8281-4261-bee0-3bca0eab5177" />
+
+![WhatsApp Image 2025-11-13 at 10 33 27_7b5da054](https://github.com/user-attachments/assets/e0ac8ab3-1665-4fcf-8728-386f3be93762)
 
 
 ---
 MANUAL CALCULATIONS
 
----
 
 RESULT
 
